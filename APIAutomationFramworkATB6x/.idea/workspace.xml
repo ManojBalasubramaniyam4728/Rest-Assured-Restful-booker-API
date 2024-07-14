@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca371380-1d22-4aa5-a258-9748a80167a1" name="Changes" comment="Added a basic Structure">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PramodDutta&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PramodDutta/APIAutomationFramworkATB6x.git&quot;,
+    &quot;accountId&quot;: &quot;ac8ec683-3fc5-4881-b590-32a168b1c3af&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2iXCwWADtTjkU8qn219hi69WveM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;TestNG./Users/promode/IdeaProjects/APIAutomationATB6x/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG./Users/promode/IdeaProjects/ATB6x/src/test/java/com/thetestingacademy/tests/extendDemo/testng-extent.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG./Users/promode/IdeaProjects/ATB6x/src/test/java/com/thetestingacademy/tests/misc/parrallel/testng-parrallel.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG./Users/promode/IdeaProjects/ATB6x/testng-ddt.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG./Users/promode/IdeaProjects/ATB6x/testng-integration-extent.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG./Users/promode/IdeaProjects/ATB6x/testng-integration-retry.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG./Users/promode/IdeaProjects/ATB6x/testng-integration.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TCIntegrationFlow.testUpdateBookingByID.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/promode/IdeaProjects/ATB6x&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/thetestingacademy/tests/extendDemo" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/thetestingacademy/tests/misc/parrallel" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/thetestingacademy/pojos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/resource" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thetestingacademy.tests.extendDemo" />
+      <recent name="com.thetestingacademy.tests.misc.parrallel" />
+      <recent name="com.thetestingacademy.tests.integration.extentTest" />
+      <recent name="com.thetestingacademy.tests.integration.retrylogic" />
+      <recent name="com.thetestingacademy.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/promode/IdeaProjects/ATB6x/testng-integration-retry.xml">
+    <configuration name="/Users/promode/IdeaProjects/ATB6x/src/test/java/com/thetestingacademy/tests/extendDemo/testng-extent.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationATB6x" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/thetestingacademy/tests/extendDemo/testng-extent.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/promode/IdeaProjects/ATB6x/src/test/java/com/thetestingacademy/tests/misc/parrallel/testng-parrallel.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationATB6x" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/thetestingacademy/tests/misc/parrallel/testng-parrallel.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/promode/IdeaProjects/ATB6x/testng-ddt.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationATB6x" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-ddt.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/promode/IdeaProjects/ATB6x/testng-integration-extent.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationATB6x" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-integration-extent.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/promode/IdeaProjects/ATB6x/testng-integration-retry.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationATB6x" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-integration-retry.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/promode/IdeaProjects/ATB6x/testng-integration-retry.xml" />
+        <item itemvalue="TestNG./Users/promode/IdeaProjects/ATB6x/src/test/java/com/thetestingacademy/tests/extendDemo/testng-extent.xml" />
+        <item itemvalue="TestNG./Users/promode/IdeaProjects/ATB6x/src/test/java/com/thetestingacademy/tests/misc/parrallel/testng-parrallel.xml" />
+        <item itemvalue="TestNG./Users/promode/IdeaProjects/ATB6x/testng-ddt.xml" />
+        <item itemvalue="TestNG./Users/promode/IdeaProjects/ATB6x/testng-integration-extent.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca371380-1d22-4aa5-a258-9748a80167a1" name="Changes" comment="" />
+      <created>1719627776045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719627776045</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added a basic Structure">
+      <option name="closed" value="true" />
+      <created>1719629100672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719629100672</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added a basic Structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a basic Structure" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/utils/UtilsExcel.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/utils/UtilsExcel.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/utils/UtilsExcel.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/utils/UtilsExcel.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
